@@ -1,5 +1,6 @@
 <?php
 
-function saludar(){
-    return "Hola funciones";
-}
+
+    function saludar(){
+        return "Hola funciones";
+    }
